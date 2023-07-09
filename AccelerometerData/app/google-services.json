@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729910424755",
+    "firebase_url": "https://accelerometerdata-32789.firebaseio.com",
+    "project_id": "accelerometerdata-32789",
+    "storage_bucket": "accelerometerdata-32789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729910424755:android:6290bccba6385f7abcacc6",
+        "android_client_info": {
+          "package_name": "com.example.accelerometerdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729910424755-p2o3b44vbsh2hksv9tke1g754jrqsqql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-LfT1CbCylJfvVBdb5cuY3Luo-nHl1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729910424755-p2o3b44vbsh2hksv9tke1g754jrqsqql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
